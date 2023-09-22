@@ -1,2 +1,2 @@
-# RecipeWebsite
-Template of a recipe website. Will be using HTML and CSS
+# RegistrationForm
+Template of a Registration form for a society I am in (CyberSecurity). Will be using HTML and CSS
