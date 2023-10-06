@@ -22,7 +22,13 @@ form{
     max-width: 700px;
     min-width: 300px;
     padding-bottom: 2em;
-    width: 60vw;
+    margin-left: 28vw;
+    width: 50vw;
+    
+    
+    
+    
+    
 }
 
 fieldset{
@@ -68,6 +74,7 @@ input[type = "submit"]{
 
 input[type = "FILE"]{
     padding: 1px 2px;
+    text-align: center;
 
 }
 
